@@ -10,7 +10,6 @@
 * [Website](http://liquidmarkup.org/)
 
 ## Introduction test
-
 Liquid is a template engine which was written with very specific requirements:
 
 * It has to have beautiful and simple markup. Template engines which don't produce good looking markup are no fun to use.
