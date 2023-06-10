@@ -23,7 +23,6 @@ Liquid is a template engine which was written with very specific requirements:
 * You like smarty (PHP) style template engines.
 * You need a template engine which does HTML just as well as emails.
 * You don't like the markup of your current templating engine.
-
 ## What does it look like?
 
 ```html
